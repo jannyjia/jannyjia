@@ -1,0 +1,49 @@
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.deps.json
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.json
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.dev.json
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.dll
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.pdb
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.csproj.CoreCompileInputs.cache
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cache
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cs
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfoInputs.cache
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfo.cs
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorTargetAssemblyInfo.cache
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.dll
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.pdb
+F:\3 project\SchemaApi\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.csprojAssemblyReference.cache
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\appsettings.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.deps.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.dev.json
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.dll
+F:\project\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.pdb
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.csprojAssemblyReference.cache
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cache
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cs
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfoInputs.cache
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfo.cs
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorTargetAssemblyInfo.cache
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.dll
+F:\project\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.pdb
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.deps.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.runtimeconfig.dev.json
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.dll
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\SchemaApi.pdb
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfoInputs.cache
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.AssemblyInfo.cs
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cache
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorAssemblyInfo.cs
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.RazorTargetAssemblyInfo.cache
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.dll
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.pdb
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.genruntimeconfig.cache
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.csproj.CoreCompileInputs.cache
+D:\project\schema\SchemaApi\SchemaApi\bin\Debug\netcoreapp2.2\Dockerfile
+D:\project\schema\SchemaApi\SchemaApi\obj\Debug\netcoreapp2.2\SchemaApi.csprojAssemblyReference.cache
